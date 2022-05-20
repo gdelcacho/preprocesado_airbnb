@@ -9,6 +9,7 @@ Miembros del equipo de trabajo
 
 Código
 El proyecto ha sido realizado en un notebook de Juptery, que contiene tanto el código como las anotaciones y explicaciones pertinentes. El nombre del archivo es PRA2_Notebook. Asimismo, el resultado es accesible desde el documento PDF, llamado PRA2_Memoria, aunque **aconsejamos visualizar el Notebook**, dado los numerosos **elementos interactivos** que contiene.
+**IMPORTANTE**: El Notebook contine un mapa interactivo que no puede visualizarse desde Git. Para visualizarlo correctamente, puede, bien, descargarse el archivo; bien visualizarse desde esta dirección: https://nbviewer.org/github/gdelcacho/preprocesado_airbnb/blob/main/PRA2_Notebook.ipynb
 
 Datos
 La carpeta data contiene tres archivos:
