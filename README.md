@@ -18,6 +18,7 @@ La carpeta data contiene tres archivos:
 * airbnb_final.csv: Archivo con los datos preprocesados.
 
 Contacto
+
 gdelcacho@uoc.edu
 
 ecallejascastro@uoc.edu
