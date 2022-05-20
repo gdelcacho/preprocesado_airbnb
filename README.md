@@ -8,7 +8,8 @@ Miembros del equipo de trabajo
 * Germán del Cacho Salvador
 
 Código
-El proyecto ha sido realizado en un notebook de Juptery, que contiene tanto el código como las anotaciones y explicaciones pertinentes. El nombre del archivo es PRA2_Notebook. Asimismo, el resultado es accesible desde el documento HTML, llamado PRA2_Memoria. 
+El proyecto ha sido realizado en un notebook de Juptery, que contiene tanto el código como las anotaciones y explicaciones pertinentes. El nombre del archivo es PRA2_Notebook. Asimismo, el resultado es accesible desde el documento HTML, llamado PRA2_Memoria, que puede visualizarse en la siguiente dirección:
+https://htmlpreview.github.io/?https://github.com/gdelcacho/preprocesado_airbnb/blob/main/PRA2_Memoria.html 
 
 Datos
 La carpeta data contiene tres archivos:
